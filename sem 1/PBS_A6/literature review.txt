@@ -1,0 +1,5 @@
+Literature Review
+
+The data set from website [1,2], we will extract past 1 year of data; For data acquisition, firstly, we will perform web-scraping on NIFTY 50 wiki page for data collection. Then we will use API to fetch stock data for past 1 year.
+Use of machine learning and/or deep learning models[3] to accumulate the price data. The data needs to be analyzed and then fitted to match the model. This is what makes it possible to predict future stock prices over a set timetable.
+TensorFlow will be used as a backend for ARIMA model will be used to fetch the historical stock data.
